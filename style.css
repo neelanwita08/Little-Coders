@@ -1,0 +1,203 @@
+body{
+    margin:0;
+    padding:10px;
+    font-family: Arial;
+    background: linear-gradient(45deg, rgb(31, 30, 30), rgb(14, 13, 13));
+}
+
+
+header{
+    background:linear-gradient(45deg,black,rgb(54, 53, 53));
+    border-radius:20px;
+    width:98%;
+    margin:auto;
+}
+
+.top{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:10px 20px;
+}
+.menu{
+    display:flex;
+    gap:25px;
+}
+
+.menu a{
+    color:whitesmoke;
+    text-decoration:none;
+}
+
+
+
+.logo{
+    font-size:20px;
+    font-weight:bold;
+    color:white;
+}
+
+
+.right{
+    display:flex;
+    gap:10px;
+    align-items:center;
+}
+
+#search{
+    height:28px;
+    padding:0 12px;
+    border-radius:20px;
+    border:none;
+    background:rgb(29, 28, 28);
+    color:white;
+}
+
+#account{
+    height:28px;
+    display:flex;
+    align-items:center;
+    padding:0 12px;
+    border-radius:20px;
+    background:rgb(39, 39, 39);
+    color:white;
+}
+
+
+#main_menu{
+    display:flex;
+    justify-content:center;
+    gap:10px;
+    padding:8px;          
+    margin:5px auto;      
+    width:95%;
+    background:black;
+    border-radius:30px;
+}
+.type{
+    padding:6px 14px;
+    border-radius:20px;
+    background:rgb(51, 51, 51);
+    color:white;
+    font-size:13px;
+}
+
+#in{ background:linear-gradient(45deg,#09867c,#38ef7d); }
+#fast{ background:linear-gradient(45deg,#09867c,#38ef7d);}
+#snacks{ background:linear-gradient(45deg,#09867c,#38ef7d);}
+#beverages{ background:linear-gradient(45deg,#09867c,#38ef7d);}
+#ch{ background:linear-gradient(45deg,#7593f0,#102bc7); }
+#desserts{background:linear-gradient(45deg,#7593f0,#102bc7)}
+#breakfast{background:linear-gradient(45deg,#7593f0,#102bc7)}
+#mx{ background:linear-gradient(45deg,#1c5303,#b2f165); }
+#drinks{background:linear-gradient(45deg,#1c5303,#b2f165);}
+#dinner{background:linear-gradient(45deg,#1c5303,#b2f165);}
+#it{ background:linear-gradient(45deg,#8e2de2,#4a00e0); }
+#healthy{background:linear-gradient(45deg,#8e2de2,#4a00e0); }
+#vegan{background:linear-gradient(45deg,#8e2de2,#4a00e0); }
+
+
+
+.title{
+    text-align:center;
+    color:white;
+    margin-top:25px;
+    font-size:20px;
+    font-weight:bold;
+}
+
+
+.food{
+    display:flex;
+    justify-content:center;
+    flex-wrap:wrap;
+    gap:10px;
+    margin:15px auto;
+    padding:10px;
+    width:95%;
+    background:rgb(36, 35, 35);
+    border-radius:15px;
+}
+
+.show{
+    height:80px;
+    min-width:160px;
+    padding:0 10px;
+    border-radius:12px;
+    border:1px solid white;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    color:white;
+    font-size:13px;
+    background-size:cover;
+    background-position:center;
+    position:relative;
+    overflow:hidden;
+}
+
+.card{
+    height:70px;
+    min-width:120px;
+    padding:0 10px;
+    border-radius:12px;
+    border:1px solid white;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    color:white;
+    font-size:13px;
+    background:rgb(39, 39, 39);
+}
+
+
+#biriyani{ background:url("biriyani.jpg") center/cover; }
+#pizza{ background:url("pizza.jpg") center/cover; }
+#chowmin{ background:url("noodle.jpg") center/cover; }
+#waffle{ background:url("waffle.jpg") center/cover; }
+#baskin{ background:url("br.jpg") center/cover; }
+#thali{ background:url("thali.jpg") center/cover; }
+#burger{ background:url("burger.jpg") center/cover;}
+#cake{ background:url("cake.jpg") center/cover;}
+#chaat{ background:url("chaat.jpg") center/cover;}
+#coffee{ background:url("coffee.jpg") center/cover;}
+#dosa{ background:url("dosa.jpg") center/cover;}
+#idli{ background:url("idli.jpg") center/cover;}
+#juice{ background:url("juice.jpg") center/cover;}
+#milkshake{ background:url("milkshake.jpg") center/cover;}
+#nuggets{ background:url("nuggets.jpg") center/cover;}
+#paneer{ background:url("paneer.jpg") center/cover;}
+#paratha{ background:url("paratha.jpg") center/cover;}
+#pastry{ background:url("pastry.jpg") center/cover;}
+#salad{ background:url("salad.jpg") center/cover;}
+#soup{ background:url("soup.jpg") center/cover;}
+#sandwich{ background:url("sandwich.jpg") center/cover;}
+#fries{background:url("fries.jpg") center/cover;}
+
+
+#offer{
+    margin:5px auto;   
+    width:98%;
+    background:black;
+    color:white;
+    padding:5px;       
+    border-radius:20px;
+    display:flex;
+    justify-content:space-around;
+}
+
+footer{
+    background:linear-gradient(15deg,black,rgb(36, 34, 34),black);
+    margin-top:5px;
+    color:white;
+    text-align:center;
+    padding:4px 3px;   
+    font-size:14px;     
+}
+.names{
+    display:flex;
+    justify-content:center;
+    gap:10px;         
+    flex-wrap:wrap;
+    font-size:13px;
+}
