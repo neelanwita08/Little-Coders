@@ -151,28 +151,28 @@ header{
 }
 
 
-#biriyani{ background:url("images/biriyani.jpg") center/cover; }
-#pizza{ background:url("images/pizza.jpg") center/cover; }
-#chowmin{ background:url("images/noodle.jpg") center/cover; }
-#waffle{ background:url("images/waffle.jpg") center/cover; }
-#baskin{ background:url("images/br.jpg") center/cover; }
-#thali{ background:url("images/thali.jpg") center/cover; }
-#burger{ background:url("images/burger.jpg") center/cover;}
-#cake{ background:url("images/cake.jpg") center/cover;}
-#chaat{ background:url("images/chaat.jpg") center/cover;}
-#coffee{ background:url("images/coffee.jpg") center/cover;}
-#dosa{ background:url("images/dosa.jpg") center/cover;}
-#idli{ background:url("images/idli.jpg") center/cover;}
-#juice{ background:url("images/juice.jpg") center/cover;}
-#milkshake{ background:url("images/milkshake.jpg") center/cover;}
-#nuggets{ background:url("images/nuggets.jpg") center/cover;}
-#paneer{ background:url("images/paneer.jpg") center/cover;}
-#paratha{ background:url("images/paratha.jpg") center/cover;}
-#pastry{ background:url("images/pastry.jpg") center/cover;}
-#salad{ background:url("images/salad.jpg") center/cover;}
-#soup{ background:url("images/soup.jpg") center/cover;}
-#sandwich{ background:url("images/sandwich.jpg") center/cover;}
-#fries{background:url("images/fries.jpg") center/cover;}
+#biriyani{ background:url("biriyani.jpg") center/cover; }
+#pizza{ background:url("pizza.jpg") center/cover; }
+#chowmin{ background:url("noodle.jpg") center/cover; }
+#waffle{ background:url("waffle.jpg") center/cover; }
+#baskin{ background:url("br.jpg") center/cover; }
+#thali{ background:url("thali.jpg") center/cover; }
+#burger{ background:url("burger.jpg") center/cover;}
+#cake{ background:url("cake.jpg") center/cover;}
+#chaat{ background:url("chaat.jpg") center/cover;}
+#coffee{ background:url("coffee.jpg") center/cover;}
+#dosa{ background:url("dosa.jpg") center/cover;}
+#idli{ background:url("idli.jpg") center/cover;}
+#juice{ background:url("juice.jpg") center/cover;}
+#milkshake{ background:url("milkshake.jpg") center/cover;}
+#nuggets{ background:url("nuggets.jpg") center/cover;}
+#paneer{ background:url("paneer.jpg") center/cover;}
+#paratha{ background:url("paratha.jpg") center/cover;}
+#pastry{ background:url("pastry.jpg") center/cover;}
+#salad{ background:url("salad.jpg") center/cover;}
+#soup{ background:url("soup.jpg") center/cover;}
+#sandwich{ background:url("sandwich.jpg") center/cover;}
+#fries{background:url("fries.jpg") center/cover;}
 
 
 #offer{
